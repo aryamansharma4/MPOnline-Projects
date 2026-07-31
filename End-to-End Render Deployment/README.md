@@ -162,9 +162,3 @@ Predicted Math Score: 71.97
 - Compare multiple regression algorithms
 - Improve frontend design
 - Containerize the application using Docker
-
----
-
-## Author
-
-**Tanishq Kumar Gupta**
