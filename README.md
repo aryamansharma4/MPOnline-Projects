@@ -160,24 +160,6 @@ Deep-Learning-Projects/
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/tanishqkumargupta/Deep-Learning-Projects.git
-```
-
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-> **Note:** Some projects may require additional datasets before execution.
-
----
-
 ## Learning Outcomes
 
 This repository demonstrates practical implementations of:
