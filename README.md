@@ -190,10 +190,3 @@ This repository demonstrates practical implementations of:
 - End-to-End Machine Learning Deployment
 - Model evaluation and performance analysis
 
----
-
-## Author
-
-**Tanishq Kumar Gupta**
-
-GitHub: https://github.com/tanishqkumargupta
