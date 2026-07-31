@@ -1,0 +1,15 @@
+tensorflow
+torch
+torchvision
+stable-baselines3
+gymnasium[box2d]
+pandas
+numpy
+scikit-learn
+matplotlib
+opencv-python
+flask
+faiss-cpu
+sentence-transformers
+transformers
+PyPDF2
